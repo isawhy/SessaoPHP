@@ -14,8 +14,12 @@
         <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body>
-        <h1>Welcome to the Home Page</h1>
-        <p>You are successfully logged in.</p>
-        <a href="logout.php">Logout</a>
+        <div class="container">
+            <div class="content">
+                <h1>Oba, você logou</h1>
+                <p>Agora é só sair.</p>
+                <a href="logout.php">Sair</a>
+            </div>
+        </div>
     </body>
 </html>
